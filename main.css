@@ -152,8 +152,8 @@ white-space:normal;
 
   #scratcher-box {
     position:absolute;
-    width: 30em;
-    height: 30em; 
+    width: 26em;
+    height: 26em; 
     top: 60%;
   } 
   .pagetop h4 {
@@ -177,9 +177,9 @@ white-space:normal;
   }
   #scratcher-box {
     position:absolute;
-    width: 26em;
-    height: 26em; 
-    top: 73%;
+    width: 24em;
+    height: 24em; 
+    top: 70%;
   }
   /* .images{
   max-width: 350px !important;
